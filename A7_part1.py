@@ -1,6 +1,4 @@
 #Samantha Stinson
-#April 19,2015
-#Mr.Cardinale
 
 #Exam Project-Part 1
 #Harry Potter and the Maze of Horcruzes
